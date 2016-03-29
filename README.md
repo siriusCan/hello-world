@@ -1,2 +1,3 @@
 # hello-world
-trial repository
+#trial repository
+hellooo, this is mn trying to understand the world of github!
